@@ -2,25 +2,25 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+
 ## Table of contents
 
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Output.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dipeshdimi/FC_QR)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/dipeshdimi/FC_QR
+- Live Site URL: https://dipeshdimi.github.io/FC_QR/
 
 
 ### Built with
@@ -32,4 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dipeshdimi)
+- Frontend Mentor - [@dipeshdimi](https://www.frontendmentor.io/profile/dipeshdimi)
+- Github - [@dipeshdimi](https://github.com/dipeshdimi)

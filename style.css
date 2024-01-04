@@ -41,7 +41,7 @@ body {
     img {
         border-radius: 10px;
         margin: auto;
-        max-width: 100%;
+        max-width: inherit;
     }
     
 }
