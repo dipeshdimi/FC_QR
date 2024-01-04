@@ -25,23 +25,21 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    ul {
-        display: flex;
-        flex-direction: column;
-        gap: 10px;
-        margin-bottom: 10px;
-        align-content: space-between;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-content: space-between;
 
-        h3 {
-            color: hsl(218, 44%, 22%);
-            font-weight: 700;
-        }
+    h3 {
+        color: hsl(218, 44%, 22%);
+        font-weight: 700;
     }
 
     img {
         border-radius: 10px;
         margin: auto;
-        max-width: inherit;
+        max-width: 100%;
     }
     
 }
